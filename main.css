@@ -1,0 +1,51 @@
+body{
+	background-image:url("blueback.jpg") ;
+}
+
+h1{color:white;
+	margin:20px;
+}
+
+
+li{ display: inline-block;
+	background-color:white;
+	border-radius:3px;
+	margin-left: 10px;
+	padding:10px;
+
+}
+
+h2{margin-left:700px;}
+
+p1{color: white;
+margin-left:740px;
+}
+
+p2{color:white;}
+
+
+img{padding:20px;}
+
+h4{color: white;
+	margin-left:120px;
+	
+}
+
+p3{color:blue;
+
+}
+
+div{width: 500px;
+height: 150px;
+
+border: 2px ;
+display: inline-block;
+background-color:white;
+border-radius:3px;
+margin-left: 20px;
+padding:10px;
+
+}
+
+
+
