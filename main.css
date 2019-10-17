@@ -3,49 +3,65 @@ body{
 }
 
 h1{color:white;
-	margin:20px;
+	margin-left:43%;
 }
 
 
 li{ display: inline-block;
 	background-color:white;
-	border-radius:3px;
-	margin-left: 10px;
+	border-radius:6px;
+	margin-left: 20px;
 	padding:10px;
-
+	font-size:40px;
 }
 
-h2{margin-left:700px;}
+h2{margin-left:37%;}
 
 p1{color: white;
-margin-left:740px;
+	margin-left:39%;
 }
 
-p2{color:white;}
-
-
-img{padding:20px;}
-
-h4{color: white;
-	margin-left:120px;
-	
+p2{color:white;
+	margin-left:10%;
 }
 
-p3{color:blue;
 
-}
+img{padding:30px;}
 
-div{width: 500px;
+
+
+
+.page2{ width: 500px;
 height: 150px;
 
 border: 2px ;
 display: inline-block;
-background-color:white;
+
 border-radius:3px;
-margin-left: 20px;
+margin-left: 10%;
 padding:10px;
 
 }
+
+h4{}
+
+.page3{
+color:white;
+width: 600px;
+display: inline-block;
+background-color:;
+border-radius:8px;
+margin-left: 30%;
+padding:30px;
+margin-top:120px;
+border-style:solid;
+
+}
+
+a{text-decoration:none;}
+
+
+.mail{color:white;}
 
 
 
